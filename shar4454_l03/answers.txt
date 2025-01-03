@@ -1,0 +1,21 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  Ashish Sharma
+ID:      169044454
+Email:   shar4454@mylaurier.ca
+Date:    10/02/2024
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 1
+What is the value in r3 when the loop is done in both signed decimal and hexadecimal?
+When the loop is done, the value in r3 will be 0. 
+This is because the loop decrements r3 by 1 in each iteration until it becomes less than 0, 
+at which point the program exits the loop.
+
+Task 2
+
+
+Task 3

@@ -1,0 +1,25 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Ashish Sharma
+ID: 169044454
+Email: shar4454@mylaurier.ca
+Date:  03/02/2024
+-------------------------------------------------------
+Answers for Lab 2
+-------------------------------------------------------
+
+Task 1
+removed unnecessary colons at ldr r3, B and ldr r3, A
+added the ldr r3, =A and ldr r3, =B instructions, 
+which load the addresses of A and B into r3 before 
+using them to access memory.
+Resolving internal_relocation (type: OFFSET_IMM) not fixed up
+
+Task 2
+changed difff to diff
+space for diff in .bss increased to 4 bytes to match register r2, str r2, [r3]
+
+Task 3
+adjusted add to point to second and third element of vec1, 
+changed vec 2 in .bss to 12 bytes for 3 words, removed unneccessary _stop

@@ -1,0 +1,27 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Ashish Sharma
+ID: 169044454
+Email: shar4454@mylaurier.ca  
+Date: 01/25/2024   
+-------------------------------------------------------
+Answers for Lab 1
+-------------------------------------------------------
+
+Task 1
+No the behavior does not change in any way when 
+doing this because the the line is just another 
+representation of the decimal value 14 so the instruction
+still moves the value into the register whether in decimal
+or hexa form.
+
+Task 2
+Yes it is legal to do this we can create a register r3 to store decimal value 8
+after doing so you can use a single add command to add r3 with r3 and store the value
+as here: add r3, r3, r3
+
+Task 3
+it is not legal to add 2 immediate values using the add command instead you can add a register
+with an immediate value in order to combat this so replacing the middle operand with a register
+allows the program to work
